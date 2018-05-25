@@ -1,0 +1,6 @@
+Install software
+rpm -Uvh hponcfg-4.3.1-0.x86_64.rpm
+Retrieving hponcfg-4.3.1-0.x86_64.rp m
+Preparing... ########################################### [100%]
+ 1:hponcfg ########################################### [100%]
+ 
