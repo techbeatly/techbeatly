@@ -1,0 +1,128 @@
+/*
+ Theme Name:   Hueman Child
+ Theme URI:    http://example.com/hueman/
+ Description:  hueman Child Theme
+ Author:       colorvibes
+ Author URI:   http://www.colorvibes.in
+ Template:     hueman
+ Version:      1.0.0
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  twenty-fourteen-child
+*/
+@import url("../hueman/style.css");
+
+/* =Theme customization starts here
+-------------------------------------------------------------- */
+body {
+    color: #000;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 1.618;
+	font-family: 'Roboto', Arial, sans-serif;	
+}
+
+body{ font-family: 'Roboto', Arial, sans-serif;}
+h1{ font-family:"Montserrat", arial, sans-serif; font-weight: 400; color: #000}
+h2{ font-family:"Montserrat", arial, sans-serif; font-weight: 400; color: #000}
+h3{ font-family:"Montserrat", arial, sans-serif; font-weight: 400; color: #000}
+h4{ font-family: 'Roboto', Arial, sans-serif; font-weight: 400; color: #000; font-size: 1.3em;}
+h5{ font-family:"Montserrat", arial, sans-serif; font-weight: 400; color: #000}
+h6{ font-family:"Montserrat", arial, sans-serif; font-weight: 400; color: #000}
+blockquote{ font-family:'Roboto', Arial, sans-serif;}
+p{ font-family: 'Roboto', Arial, sans-serif; line-height: 1.618; font-size: 18px; font-weight: 400; color: #000}
+li{ font-family: 'Roboto', Arial, sans-serif; line-height: 28px; font-size: 16px; font-weight: 400; color: #000}
+
+.single .post-title {
+    font-weight: 400;
+    color: #000;
+    font-size: 40px;
+    line-height: 60px;
+}
+
+.fittexted_for_content_h1 {
+	font-size: 30px !important;
+	font-weight: 700 !important;	
+	color: #000;
+}
+
+.fittexted_for_content_h2 {
+	font-size: 26px !important;
+	font-weight: 700 !important;	
+	color: #000;
+}
+.fittexted_for_content_h3 {
+	font-size: 22px !important;
+	font-weight: 700 !important;	
+	color: #000;
+}
+.fittexted_for_content_h4 {
+	font-size: 20px !important;
+	font-weight: 700 !important;	
+	color: #000;
+}
+
+.post-title.entry-title.fittexted_for_post_titles.fittexted_for_featured_post_titles {
+	font-size: 32px !important;
+    line-height: 38px !important;
+	font-weight: 700 !important;
+}
+
+.post-title entry-title fittexted_for_post_titles {
+	font-size: 20px !important;
+	font-weight: 700 !important;	
+	line-height: 28px !important;
+}
+
+.post-title {
+    font-weight: 700;
+    color: #000;
+    font-size: 20px;
+    line-height: 28px;
+}
+
+.entry pre {
+    background: #111;
+    background-color: #252525;    
+    border: 1px solid #ddd;
+    word-wrap: break-word;
+    overflow-x: auto;
+    overflow-y: hidden;
+    color: #f0f0f0;    
+    white-space: pre;
+    margin: 0 0 30px;
+    padding: .9375rem;
+	
+	font-family: 'Inconsolata', Consolas, monospace;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 20px;
+font-size-adjust: none;
+font-stretch: normal;
+font-feature-settings: normal;
+font-language-override: normal;
+font-kerning: auto;
+font-variant-alternates: normal;
+font-variant-caps: normal;
+font-variant-east-asian: normal;
+font-variant-ligatures: normal;
+font-variant-numeric: normal;
+font-variant-position: normal;
+}
+
+.entry h1 {
+	font-weight: 400;
+	font-size: 1.5em;
+}
+.entry h2 {
+	font-weight: 400;
+	font-size: 1.4em;
+}
+.entry h3 {
+	font-weight: 400;
+	font-size: 1.3em;
+}
+.entry h4 {
+	font-weight: 400;
+	font-size: 1.2em;
+}
